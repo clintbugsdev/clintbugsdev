@@ -1,4 +1,4 @@
-### Hi there, I'm Clint! 👋
+## Hi there, I'm Clint! 👋
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=clintbugsdev&show_icons=true&theme=tokyonight" />
 
